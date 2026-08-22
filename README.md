@@ -1,2 +1,1 @@
-# CCM101-mflores
-CCM101 Cloud Computing Laboratory Portfolio
+This folder contains my activities, system information, reflection, and screenshots for Laboratory 01.
