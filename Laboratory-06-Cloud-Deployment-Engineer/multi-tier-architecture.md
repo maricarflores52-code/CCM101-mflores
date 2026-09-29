@@ -1,5 +1,3 @@
-# Multi-Tier Architecture
-
 ## Web Application Tier
 
 The web application tier is responsible for handling requests from users and displaying the application's interface. In this deployment, Nextcloud serves as the web application. Users can access Nextcloud through a web browser, while the application handles the requests and communicates with the database.
